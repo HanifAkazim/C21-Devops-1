@@ -1,1 +1,2 @@
-hh
+hhgit config --global user.email "2115411@talnet.nl"
+git config --global user.name "Hanif Akazim"
